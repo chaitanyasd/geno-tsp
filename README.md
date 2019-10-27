@@ -1,9 +1,10 @@
 # GenoTSP
 Genetic algorithm implementation to solve the famous NP-hard problem - The Travelling Salesman
 
-Python 3.7
+<h3> Steps </h3>
+1. Install requirements by running ` pip install -r requirements.txt ` <br>
+2. Set the values in settings.py <br> 
+3. Run genoTSP.py <br>
 
-Steps
-1. Install requirements by running pip install -r requirements.txt
-2. Set the values in settings.py
-3. Run genoTSP.py
+<h3> TODO </h3>
+1. Display the routes live while traing using a gui <br>
