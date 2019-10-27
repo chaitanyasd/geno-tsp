@@ -7,4 +7,4 @@ Genetic algorithm implementation to solve the famous NP-hard problem - The Trave
 3. Run genoTSP.py <br>
 
 <h3> TODO </h3>
-1. Display the routes while training on a gui <br>
+1. Display the routes on a GUI while training <br>
