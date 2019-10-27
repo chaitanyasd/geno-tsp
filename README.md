@@ -1,5 +1,5 @@
 # GenoTSP
-Genetic algorithm implementation to solve the famous NP-hard problem - [The Travelling Salesman[(https://simple.wikipedia.org/wiki/Travelling_salesman_problem)
+Genetic algorithm implementation to solve the famous NP-hard problem - [The Travelling Salesman](https://simple.wikipedia.org/wiki/Travelling_salesman_problem)
 
 <h3> Steps </h3>
 
