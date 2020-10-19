@@ -1,4 +1,6 @@
 # GenoTSP
+[![Generic badge](https://img.shields.io/badge/python-3.7.6-success.svg)](https://www.python.org/downloads/release/python-376/)
+
 Genetic algorithm implementation to solve the famous NP-hard problem - [The Travelling Salesman](https://simple.wikipedia.org/wiki/Travelling_salesman_problem)
 
 <h3> Steps </h3>
